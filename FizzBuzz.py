@@ -23,7 +23,7 @@ for x in range(1,n,2):
 #13
 
 #explanation
-#all number rounded by 2 will not be printed
+#if 3rd argument declared number 2 all number rounded by 2 will not be printed
 #all number rounded by 3 will be printed by Fizz
 #all number rounded by 5 will be printed by Buzz
 #if number rounded by 3 and 5 will be printed by FizzBuzz
